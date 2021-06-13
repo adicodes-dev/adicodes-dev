@@ -1,6 +1,6 @@
 Hi there, I’m Aditya 👋
 
-I'm a Front-End developer with 2+ years of experience.
+I'm a Front-End developer with 2+ years of experience. (This is my new github account, lost my previous one. Stay tuned for more repository updates)
 
 - 🌱 I’m currently exploring JavaScript frameworks/libraries apart from Angular (Already working on Angular).
 
